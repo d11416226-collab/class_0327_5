@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\bin\Debug\net10.0\class_0327_5.exe
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\bin\Debug\net10.0\class_0327_5.deps.json
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\bin\Debug\net10.0\class_0327_5.runtimeconfig.json
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\bin\Debug\net10.0\class_0327_5.dll
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\bin\Debug\net10.0\class_0327_5.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.dll
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\refint\class_0327_5.dll
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\class_0327_5.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\新增資料夾 (5)\class_0327_5\obj\Debug\net10.0\ref\class_0327_5.dll
